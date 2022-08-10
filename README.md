@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmitriy Tsybulskiy
+Hi 👋 My name is Dmitriy
 ===================================
 
 iOS Developer
