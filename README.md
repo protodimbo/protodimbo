@@ -1,10 +1,10 @@
 Hi 👋 My name is Dmitriy
 ===================================
 
-iOS Developer
+A passionate iOS Developer
 -------------
 
-* 🌍  A passionate iOS Developer from Moscow
+* 🌍 from Moscow
 
 <a href="https://www.github.com/protodimbo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/protodimbo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
